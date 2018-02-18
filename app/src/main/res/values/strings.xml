@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BERLIANTOPARLINGGOMANSARAGIH_1202150016_MODUL2</string>
+    <string name="nothing_clicked">Nothing Clicked</string>
+
+    <string-array name="meja_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    </resources>
